@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/rotation/static/js/main.421f52e8.js",
+    "main.js": "/rotation/static/js/main.3759d0a4.js",
     "index.html": "/rotation/index.html",
-    "main.421f52e8.js.map": "/rotation/static/js/main.421f52e8.js.map"
+    "main.3759d0a4.js.map": "/rotation/static/js/main.3759d0a4.js.map"
   },
   "entrypoints": [
-    "static/js/main.421f52e8.js"
+    "static/js/main.3759d0a4.js"
   ]
 }
