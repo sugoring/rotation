@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { RefreshCw, Square, RotateCcw, RotateCw } from "lucide-react";
-import { Button } from "./components/ui/button";
-import { Alert, AlertDescription, AlertTitle } from "./components/ui/alert";
+import { Button } from "./components/ui/Button";
+import { Alert, AlertDescription, AlertTitle } from "./components/ui/Alert";
 
 const GRID_SIZE = 4;
 const CELL_SIZE = 30;
